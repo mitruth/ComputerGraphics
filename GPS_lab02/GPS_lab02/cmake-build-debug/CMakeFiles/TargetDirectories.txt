@@ -1,0 +1,3 @@
+/Users/Mitruth/Documents/GPS/GPS_lab02/GPS_lab02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Mitruth/Documents/GPS/GPS_lab02/GPS_lab02/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Mitruth/Documents/GPS/GPS_lab02/GPS_lab02/cmake-build-debug/CMakeFiles/OpenGL_01.dir

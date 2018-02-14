@@ -1,0 +1,14 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl Umber_Hulk1
+Ns 31.372549
+Ka 0.000000 0.000000 0.000000
+Kd 0.674510 0.576471 0.498039
+Ks 0.162000 0.162000 0.162000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Umber Hulk1Diffuse1f.jpg
+map_Ka Umber Hulk1Diffuse1f.jpg
